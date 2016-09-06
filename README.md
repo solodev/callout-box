@@ -26,7 +26,7 @@ The callout box design has the following basic HTML markup.
 ```
 ## CSS
 
-All necessary is included in callout-box.css
+All necessary CSS is included in callout-box.css
 
 ## External Includes
 
